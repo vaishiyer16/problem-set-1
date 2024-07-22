@@ -3,7 +3,7 @@ PROBLEM SET #2: REGRESSION AND DECISION TREES
 Instructions: 
 - Clone the Problem Set code package from GitHub: 
 - You will use arrest data for each part of this assignment. The links are found in src/etl.py in the code package. 
-- - Remember to spend some time to get to know the data before you start on pre-processing and analysis
+  - Remember to spend some time to get to know the data before you start on pre-processing and analysis
 - Each of the .py files in `/src` contain instructions for the exepected code you are to write
 
 
@@ -14,7 +14,7 @@ https://www.freecodecamp.org/news/python-requirementstxt-explained/
 
 When you're done:
 - Commit and push this code package to your GitHub account
-- - A good practice is to use simple commit comments and  commit code after you've finished each feature. Commit and push often
+  - A good practice is to use simple commit comments and  commit code after you've finished each feature. Commit and push often
 
 Submission: 
 You will submit the GitHub URL for this repo in ELMS.
