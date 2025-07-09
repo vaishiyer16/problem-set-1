@@ -1,4 +1,4 @@
-PROBLEM SET #2: REGRESSION AND DECISION TREES
+PROBLEM SET #1: REGRESSION AND DECISION TREES
 
 Instructions: 
 - Clone the Problem Set code package from GitHub: 
