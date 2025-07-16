@@ -2,7 +2,7 @@
 PART 3: Logistic Regression
 - Read in `df_arrests`
 - Use train_test_split to create two dataframes from `df_arrests`, the first is called `df_arrests_train` and the second is called `df_arrests_test`. Set test_size to 0.3, shuffle to be True. Stratify by the outcome  
-- Create a list called `features` which contains our two feature names: pred_universe, num_fel_arrests_last_year
+- Create a list called `features` which contains our two feature names: num_fel_arrests_last_year, current_charge_felony
 - Create a parameter grid called `param_grid` containing three values for the C hyperparameter. (Note C has to be greater than zero) 
 - Initialize the Logistic Regression model with a variable called `lr_model` 
 - Initialize the GridSearchCV using the logistic regression model you initialized and parameter grid you created. Do 5 fold crossvalidation. Assign this to a variable called `gs_cv` 
