@@ -35,8 +35,7 @@ def train_logistic_model(df_arrests):
     X_test = df_arrests_test[features]
     y_test = df_arrests_test['y']
 
-    param_grid = {'C': [0.01, 1, 100]}  # small = more regularization, large = less
-
+    param_grid = {'C': [0.01, 1, 100]}  
   
     lr_model = LogisticRegression(max_iter=1000, solver='liblinear')
 
